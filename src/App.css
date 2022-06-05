@@ -16,9 +16,10 @@ h1{
 }
 
 .left{
-  margin-top: 10%;
+  margin-top: 7%;
   height: 70%;
-  width: 25%;
+  width: 22%;
+  padding: 2% 5%;
   display: grid;
   grid-template-columns: repeat(2,1fr);
   grid-gap: 5px;
